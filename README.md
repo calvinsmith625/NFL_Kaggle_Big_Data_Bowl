@@ -1,4 +1,4 @@
-# Tracking_Data
+# Tracking Data Project - Determine which defensive backs are most effective in different roles from tracking data captured at 10 frames per second.
 
 calvin-smith-data-clean: Initial data acquisition and cleaning notebook. This notebook cleans over 15 million rows in order for it be exported in a format that is simpler to engineer features from.
 
