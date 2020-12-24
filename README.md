@@ -4,4 +4,4 @@ calvin-smith-data-clean: Initial data acquisition and cleaning notebook. This no
 
 coverage-id: Develop model to determine man or zone coverage from data engineered in merge-data-clean and calvin-smith-data-clean notebooks. This notebook derives additional features to provide more context to each play to evaluate defensive back movements.
 
-bdb-randomforest: Utilizes object oriented programming to train a Random Forest Classifier to predict pass completion probability.
+bdb-randomforest: Utilizes object oriented programming to train and tune a Random Forest Classifier to predict pass completion probability. The model boasts an 80% recall and 70% precision.
