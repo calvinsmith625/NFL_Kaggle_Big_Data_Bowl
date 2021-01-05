@@ -6,4 +6,6 @@
 
 **pre-rand-forest:** data cleaning to prepare for modeling
 
+**coverage-id:** compute relevant features for identifying coverages
+
 
